@@ -1,0 +1,4 @@
+consider you need to build a smartphone app which users uses to program the buttons of a remote control.
+
+Mobile App----> Remote Control
+Connect the remote control somehow. And try to control the light bulb or an AC with the same remote control.
